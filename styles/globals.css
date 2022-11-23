@@ -4,7 +4,8 @@ body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-}
+    background: rgb(181, 246, 255) ;
+  }
 
 a {
   color: inherit;
@@ -20,7 +21,12 @@ a {
     color-scheme: dark;
   }
   body {
-    color: white;
+    color: rgb(160, 244, 255);
     background: black;
   }
+}
+
+.center{
+  margin: auto;
+  text-align: center;
 }
